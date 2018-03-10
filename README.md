@@ -1,3 +1,6 @@
+
+# HEY CHAN I'M TESTING THE 'PUSH' FUNCTIONALITY
+
 # Algorithm-to-Retire
 
 Objective: 
@@ -12,7 +15,6 @@ Scrape / data collection
 Algorithm
 Testing
 Functionality to Buy & Sell
-
 
 
 
